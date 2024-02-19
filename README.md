@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 ## run the tailwind css using
 npm install -D tailwindcss
+
 npx tailwindcss init
 
 Runs the app in the development mode.\
