@@ -8,6 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## run the tailwind css using
+npm install -D tailwindcss
+npx tailwindcss init
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
